@@ -13,7 +13,7 @@ int main(void)
 printf
 ("Size of a char: %d byte(s)", sizeof(a));
 printf
-("Size of a int: %d byte(s)", sizeof(b));
+("Size of an int: %d byte(s)", sizeof(b));
 printf
 ("Size of a long int: %d byte(s)", sizeof(c));
 printf
