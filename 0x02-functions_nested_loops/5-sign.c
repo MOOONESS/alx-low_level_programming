@@ -1,7 +1,7 @@
 #include "main.h"
 #include <ctype.h>
 /**
- *_islower -putcha
+ *print_sign -putcha
  *Return:0
  *@n:var
 **/
